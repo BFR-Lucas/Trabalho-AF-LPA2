@@ -1,0 +1,14 @@
+B:\Trabalhos\JogodaMemoria\bin\Debug\JogodaMemoria.exe.config
+B:\Trabalhos\JogodaMemoria\bin\Debug\JogodaMemoria.exe
+B:\Trabalhos\JogodaMemoria\bin\Debug\JogodaMemoria.pdb
+B:\Trabalhos\JogodaMemoria\obj\Debug\JogodaMemoria.csproj.AssemblyReference.cache
+B:\Trabalhos\JogodaMemoria\obj\Debug\JogodaMemoria.Properties.Resources.resources
+B:\Trabalhos\JogodaMemoria\obj\Debug\JogodaMemoria.csproj.GenerateResource.cache
+B:\Trabalhos\JogodaMemoria\obj\Debug\JogodaMemoria.csproj.CoreCompileInputs.cache
+B:\Trabalhos\JogodaMemoria\obj\Debug\JogodaMemoria.exe
+B:\Trabalhos\JogodaMemoria\obj\Debug\JogodaMemoria.pdb
+B:\Trabalhos\JogodaMemoria\obj\Debug\JogodaMemoria.exe.config
+B:\Trabalhos\JogodaMemoria\obj\Debug\JogodaMemoria.Easy.resources
+B:\Trabalhos\JogodaMemoria\obj\Debug\JogodaMemoria.Normal.resources
+B:\Trabalhos\JogodaMemoria\obj\Debug\JogodaMemoria.LevelSelect.resources
+B:\Trabalhos\JogodaMemoria\obj\Debug\JogodaMemoria.Hard.resources
